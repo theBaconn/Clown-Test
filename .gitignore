@@ -1,0 +1,9 @@
+/BuildTest
+/Library
+/Logs
+/Temp
+/obj
+/UserSettings
+**.sln
+**.csproj
+/MemoreCaptures
